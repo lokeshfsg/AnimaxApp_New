@@ -5,6 +5,8 @@ const router = express.Router();
 
 const controller = require('../Controllers/index');
 
+router.get('/', controller.lucky);
+
 router.get('/movies', controller.getAllMovies);
 
 router.get('/movies/:id', controller.getMovieById);
@@ -19,5 +21,6 @@ router.get('/getMovieByTitle/:title', controller.getMovieByTitle);
 // User routes
 router.post('/signup', controller.signup);
 router.post('/login', controller.login);
+router.get('/',controller.lucky);
 
 module.exports = router;
