@@ -1,5 +1,5 @@
 
-require('dotenv').config();
+//require('dotenv').config();
 const express = require('express');
 const mongoose = require('mongoose');
 
@@ -8,7 +8,8 @@ const routes = require('./Routes/index');
 const app = express();
 
 const port = process.env.PORT || 5400;
-
+import dotenv from 'dotenv';
+dotenv.config();
 
 app.use(express.json());
 
