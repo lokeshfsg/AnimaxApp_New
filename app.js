@@ -13,6 +13,8 @@ const port = process.env.PORT || 5400;
 
 app.use(express.json());
 
+const path = require('path');
+app.use(express.static(path.join(__dirname, '../client/build')));
 
 app.use((req, res, next) => {
     res.setHeader('Access-Control-Allow-Origin', '*'); // http://localhost:3000
@@ -23,6 +25,10 @@ app.use((req, res, next) => {
 
 //npm i cors
 app.use('/', routes);
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../client/build/index.html'));
+});
 
 console.log("Connecting to MongoDB with URI:", (process.env.MONGO_URI || 'mongodb://localhost:27017/animaxdb').replace(/:([^:@]{1})[^:@]*@/, ':***@'));
 
