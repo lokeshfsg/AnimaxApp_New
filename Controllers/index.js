@@ -164,7 +164,7 @@ const login = async (req, res) => {
 // Lucky
 const lucky = (req, res) => {
   console.log("User already exists:", email);
-  return res.status(400).json({ message: "User already exists" });
+  return res.status(200).json({ message: "User already exists" });
 };
 
 
