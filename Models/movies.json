@@ -1,0 +1,612 @@
+[
+    {
+        "id": 1,
+        "title": "3 Idiots",
+        "director": "Rajkumar Hirani",
+        "year": 2009,
+        "genre": "Comedy-Drama",
+        "language": "Hindi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 2,
+        "title": "Baahubali: The Beginning",
+        "director": "S. S. Rajamouli",
+        "year": 2015,
+        "genre": "Epic-Action",
+        "language": "Telugu",
+        "image": "https://wallpapers.oneindia.com/ph-1024x768/2015/07/bahubali_143685159720.jpg",
+        "rating": 4.0
+    },
+    {
+        "id": 3,
+        "title": "Super Deluxe",
+        "director": "Thiagarajan Kumararaja",
+        "year": 2019,
+        "genre": "Drama",
+        "language": "Tamil",
+        "image": "https://play-lh.googleusercontent.com/06-hBQDB2Ca6im8wST5gs_XVZ4v28AP48fTNATwDmvru_wNnsiD1HGevP1MYRJQCPr0UppacwTR_88lIUqlv",
+        "rating": 4.3
+    },
+    {
+        "id": 4,
+        "title": "Drishyam",
+        "director": "Jeethu Joseph",
+        "year": 2013,
+        "genre": "Thriller",
+        "language": "Malayalam",
+        "image": "https://wallpapers.oneindia.com/ph-1024x768/2013/11/drishyam-wallpaper_138388591950.jpg",
+        "rating": 4.1
+    },
+    {
+        "id": 5,
+        "title": "KGF: Chapter 1",
+        "director": "Prashanth Neel",
+        "year": 2018,
+        "genre": "Action",
+        "language": "Kannada",
+        "image": "https://venkatarangan.com/wp-content/uploads/2022/05/kgf-chapter1.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 6,
+        "title": "Pather Panchali",
+        "director": "Satyajit Ray",
+        "year": 1955,
+        "genre": "Drama",
+        "language": "Bengali",
+        "image": "https://www.tallengestore.com/cdn/shop/products/Pather_Panchali_Trilogy_-_Poster_Art_-_Satyajit_Ray_Collection_9586c840-08dd-41dc-bc43-83f38ffcc1cc.jpg?v=1570126968",
+        "rating": 4.3
+    },
+    {
+        "id": 7,
+        "title": "Swaas",
+        "director": "Sandeep Sawant",
+        "year": 2004,
+        "genre": "Drama",
+        "language": "Marathi",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDljZWVhMDYtMjFjYS00MTc3LThkZWItZDU4ODc4OGRjY2RmXkEyXkFqcGc@._V1_.jpg",
+        "rating": 4.0
+    },
+    {
+        "id": 8,
+        "title": "Chauthi Koot",
+        "director": "Gurvinder Singh",
+        "year": 2015,
+        "genre": "Drama",
+        "language": "Punjabi",
+        "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/chauthi-koot-et00044083-17-04-2017-17-58-51.jpg",
+        "rating": 3.8
+    },
+    {
+        "id": 9,
+        "title": "Hellaro",
+        "director": "Abhishek Shah",
+        "year": 2019,
+        "genre": "Drama",
+        "language": "Gujarati",
+        "image": "https://i.ytimg.com/vi/4hchg-apCMA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBYE4OkIpXrskrk_yZ5rfV64ghNEw",
+        "rating": 3.9
+    },
+    {
+        "id": 10,
+        "title": "The Lunchbox",
+        "director": "Ritesh Batra",
+        "year": 2013,
+        "genre": "Romance-Drama",
+        "language": "Hindi",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5lcECIW2f1R4AeqKyo6KNEJhLfGISs-kzA&s",
+        "rating": 3.9
+    },
+    {
+        "id": 11,
+        "title": "Slumdog Millionaire",
+        "director": "Danny Boyle",
+        "year": 2008,
+        "genre": "Drama",
+        "language": "English",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/92/Slumdog_Millionaire_poster.png",
+        "rating": 4.0
+    },
+    {
+        "id": 12,
+        "title": "Dangal",
+        "director": "Nitesh Tiwari",
+        "year": 2016,
+        "genre": "Biography-Drama",
+        "language": "Hindi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Dangal_Poster.jpg/250px-Dangal_Poster.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 13,
+        "title": "PK",
+        "director": "Rajkumar Hirani",
+        "year": 2014,
+        "genre": "Comedy-Drama",
+        "language": "Hindi",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjQ5NzIwNmEtNTBiMi00N2M5LWExOWEtNmQwZGQ0YjVkZTkwXkEyXkFqcGc@._V1_.jpg",
+        "rating": 4.1
+    },
+    {
+        "id": 14,
+        "title": "Bajrangi Bhaijaan",
+        "director": "Kabir Khan",
+        "year": 2015,
+        "genre": "Drama",
+        "language": "Hindi",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzVjMjZiNGUtZjZiNy00Yzg4LWEzYzYtMmI1NDg5NWNiNjUwXkEyXkFqcGc@._V1_.jpg",
+        "rating": 4.0
+    },
+    {
+        "id": 15,
+        "title": "Zindagi Na Milegi Dobara",
+        "director": "Zoya Akhtar",
+        "year": 2011,
+        "genre": "Adventure-Drama",
+        "language": "Hindi",
+        "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F6%2Fgracenote%2F66451b6f95b286efc542ad0959c86bec.jpg",
+        "rating": 4.1
+    },
+    {
+        "id": 16,
+        "title": "Lagaan",
+        "director": "Ashutosh Gowariker",
+        "year": 2001,
+        "genre": "Drama",
+        "language": "Hindi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Lagaan.jpg",
+        "rating": 4.1
+    },
+    {
+        "id": 17,
+        "title": "Baahubali 2: The Conclusion",
+        "director": "S. S. Rajamouli",
+        "year": 2017,
+        "genre": "Epic-Action",
+        "language": "Telugu",
+        "image": "https://images.slivcdn.com/0/bahubali_2_12dec_landscape_thumb.jpg?w=1000&q=low",
+        "rating": 4.1
+    },
+    {
+        "id": 18,
+        "title": "RRR",
+        "director": "S. S. Rajamouli",
+        "year": 2022,
+        "genre": "Action-Drama",
+        "language": "Telugu",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWMwODYyMjQtMTczMi00NTQ1LWFkYjItMGJhMWRkY2E3NDAyXkEyXkFqcGc@._V1_.jpg",
+        "rating": 3.9
+    },
+    {
+        "id": 19,
+        "title": "Arjun Reddy",
+        "director": "Sandeep Reddy Vanga",
+        "year": 2017,
+        "genre": "Romance-Drama",
+        "language": "Telugu",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Arjun_Reddy_%28soundtrack%29.jpg",
+        "rating": 4.1
+    },
+    {
+        "id": 20,
+        "title": "Pushpa: The Rise",
+        "director": "Sukumar",
+        "year": 2021,
+        "genre": "Action-Drama",
+        "language": "Telugu",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2844b9fb2959bff43271a6ce5fb2519c16aef711885b08f71b6c1cbffb060ee7.jpg",
+        "rating": 3.8
+    },
+    {
+        "id": 21,
+        "title": "Magadheera",
+        "director": "S. S. Rajamouli",
+        "year": 2009,
+        "genre": "Fantasy-Action",
+        "language": "Telugu",
+        "image": "https://venkatarangan.com/wp-content/uploads/2016/03/Magadheera-1.jpg",
+        "rating": 3.9
+    },
+    {
+        "id": 22,
+        "title": "Vikram",
+        "director": "Lokesh Kanagaraj",
+        "year": 2022,
+        "genre": "Action-Thriller",
+        "language": "Tamil",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmViYjExY2UtMzZjOS00OGQ2LWEzNWYtNGYxY2NkY2RmMDE3XkEyXkFqcGc@._V1_.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 23,
+        "title": "Beast",
+        "director": "Nelson Dilipkumar",
+        "year": 2022,
+        "genre": "Action-Comedy",
+        "language": "Tamil",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Beast_2022_Indian_poster.jpg",
+        "rating": 2.4
+    },
+    {
+        "id": 24,
+        "title": "Master",
+        "director": "Lokesh Kanagaraj",
+        "year": 2021,
+        "genre": "Action-Drama",
+        "language": "Tamil",
+        "image": "https://i.ytimg.com/vi/61hp9V88Nh4/maxresdefault.jpg",
+        "rating": 3.7
+    },
+    {
+        "id": 25,
+        "title": "Jailer",
+        "director": "Nelson Dilipkumar",
+        "year": 2023,
+        "genre": "Action-Drama",
+        "language": "Tamil",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQrD5ubRri7REAurhl6xUotOtrlTafGqD2Q&s",
+        "rating": 3.5
+    },
+    {
+        "id": 26,
+        "title": "Kaithi",
+        "director": "Lokesh Kanagaraj",
+        "year": 2019,
+        "genre": "Action-Thriller",
+        "language": "Tamil",
+        "image": "https://i.ytimg.com/vi/5HONc5rNuVs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAjYCVjcHQEFAokd4XBeefYJywepw",
+        "rating": 4.3
+    },
+    {
+        "id": 27,
+        "title": "Lucifer",
+        "director": "Prithviraj Sukumaran",
+        "year": 2019,
+        "genre": "Action-Drama",
+        "language": "Malayalam",
+        "image": "https://reelcinemas.com//MovieImages/HO00001040.jpg",
+        "rating": 4.1
+    },
+    {
+        "id": 28,
+        "title": "Drishyam 2",
+        "director": "Jeethu Joseph",
+        "year": 2021,
+        "genre": "Thriller",
+        "language": "Malayalam",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2Q2YTczM2QtNDBkNC00M2I5LTkyMzgtOTMwNzQ0N2UyYWQ0XkEyXkFqcGc@._V1_.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": 29,
+        "title": "Kurup",
+        "director": "Srinath Rajendran",
+        "year": 2021,
+        "genre": "Biography-Thriller",
+        "language": "Malayalam",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Kurup_%28film%29.jpeg",
+        "rating": 3.9
+    },
+    {
+        "id": 30,
+        "title": "The Great Indian Kitchen",
+        "director": "Jeo Baby",
+        "year": 2021,
+        "genre": "Drama",
+        "language": "Malayalam",
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Movie_poster_of_2021_malayalam_film_%27The_Great_Indian_Kitchen%27.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": 31,
+        "title": "Joji",
+        "director": "Dileesh Pothan",
+        "year": 2021,
+        "genre": "Drama-Thriller",
+        "language": "Malayalam",
+        "image": "https://resizing.flixster.com/cfD5FYglpGW06MoNrol2bC2loJA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUyNDI0N2Q2LTJmNjktNGRjNi1hOTMxLTVkOGY5YjgwZjliOC5qcGc=",
+        "rating": 3.9
+    },
+    {
+        "id": 32,
+        "title": "KGF: Chapter 2",
+        "director": "Prashanth Neel",
+        "year": 2022,
+        "genre": "Action",
+        "language": "Kannada",
+        "image": "https://www.koimoi.com/wp-content/new-galleries/2022/04/kgf-chapter-2-box-office-day-14-all-languages-scores-another-double-digit-score-to-hit-700-crore-mark-before-3rd-weekend-closes-001.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 33,
+        "title": "Roberrt",
+        "director": "Tharun Sudhir",
+        "year": 2021,
+        "genre": "Action-Drama",
+        "language": "Kannada",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOQiSkz8F0aTGHImD4UQWgYrDdS15I4LQIbg&s",
+        "rating": 3.4
+    },
+    {
+        "id": 34,
+        "title": "Yuvarathnaa",
+        "director": "Santhosh Ananddram",
+        "year": 2021,
+        "genre": "Action-Drama",
+        "language": "Kannada",
+        "image": "https://i.ytimg.com/vi/HSkuYlGwzF0/maxresdefault.jpg",
+        "rating": 3.8
+    },
+    {
+        "id": 35,
+        "title": "James",
+        "director": "Chethan Kumar",
+        "year": 2022,
+        "genre": "Action-Thriller",
+        "language": "Kannada",
+        "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/james-et00312373-16-03-2022-09-14-19.jpg",
+        "rating": 3.7
+    },
+    {
+        "id": 36,
+        "title": "Vikrant Rona",
+        "director": "Anup Bhandari",
+        "year": 2022,
+        "genre": "Action-Thama",
+        "language": "Kannada",
+        "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vikrant-rona-et00335181-1658650801.jpg",
+        "rating": 3.9
+    },
+    {
+        "id": 37,
+        "title": "Aparajito",
+        "director": "Satyajit Ray",
+        "year": 1956,
+        "genre": "Drama",
+        "language": "Bengali",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTBmYTY4NmUtYjQ0MC00ZjU1LThiZTItM2EwZDE0MTgyMzYxXkEyXkFqcGc@._V1_.jpg",
+        "rating": 4.1
+    },
+    {
+        "id": 38,
+        "title": "The World of Apu",
+        "director": "Satyajit Ray",
+        "year": 1959,
+        "genre": "Drama",
+        "language": "Bengali",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/245c7b4799da02b8fd4f6924a41efc8a77c4daccd2de804a6bae4f5b1eedaa3f.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": 39,
+        "title": "Charulata",
+        "director": "Satyajit Ray",
+        "year": 1964,
+        "genre": "Drama",
+        "language": "Bengali",
+        "image": "https://i0.wp.com/feminisminindia.com/wp-content/uploads/2019/11/Satyajit_Ray_Charulata_1964_Affiche_01.jpg?fit=696%2C963&ssl=1",
+        "rating": 4.1
+    },
+    {
+        "id": 40,
+        "title": "Pather Panchali 2",
+        "director": "Satyajit Ray",
+        "year": 1955,
+        "genre": "Drama",
+        "language": "Bengali",
+        "image": "https://i.ytimg.com/vi/QM4FaNiIng4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBlgAqCIMlQ0lJKfbKKXfus40NAyg",
+        "rating": 4.3
+    },
+    {
+        "id": 41,
+        "title": "Devi",
+        "director": "Satyajit Ray",
+        "year": 1960,
+        "genre": "Drama",
+        "language": "Bengali",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Debi_2005_poster.jpg",
+        "rating": 4.0
+    },
+    {
+        "id": 42,
+        "title": "Natsamrat",
+        "director": "Mahesh Manjrekar",
+        "year": 2016,
+        "genre": "Drama",
+        "language": "Marathi",
+        "image": "https://m.media-amazon.com/images/I/61UI3ySfD4L._UF1000,1000_QL80_.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": 43,
+        "title": "Sairat",
+        "director": "Nagraj Manjule",
+        "year": 2016,
+        "genre": "Romance-Drama",
+        "language": "Marathi",
+        "image": "https://im.rediff.com/movies/2016/may/18sairat1.jpg?w=450&h=450",
+        "rating": 4.3
+    },
+    {
+        "id": 44,
+        "title": "Court",
+        "director": "Chaitanya Tamhane",
+        "year": 2014,
+        "genre": "Drama",
+        "language": "Marathi",
+        "image": "https://m.media-amazon.com/images/I/51ns1rfyzsL._AC_SY200_QL15_.jpg",
+        "rating": 3.8
+    },
+    {
+        "id": 45,
+        "title": "Fandry",
+        "director": "Nagraj Manjule",
+        "year": 2013,
+        "genre": "Drama",
+        "language": "Marathi",
+        "image": "https://images.justwatch.com/poster/793764/s718/pig.jpg",
+        "rating": 3.6
+    },
+    {
+        "id": 46,
+        "title": "Kaksparsh",
+        "director": "Mahesh Manjrekar",
+        "year": 2012,
+        "genre": "Drama",
+        "language": "Marathi",
+        "image": "https://m.media-amazon.com/images/I/41gsRmr6HyL._UF1000,1000_QL80_.jpg",
+        "rating": 3.7
+    },
+    {
+        "id": 47,
+        "title": "Udta Punjab",
+        "director": "Abhishek Chaubey",
+        "year": 2016,
+        "genre": "Crime-Drama",
+        "language": "Punjabi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Udta_Punjab.jpg",
+        "rating": 3.9
+    },
+    {
+        "id": 48,
+        "title": "Qissa",
+        "director": "Anup Singh",
+        "year": 2013,
+        "genre": "Drama",
+        "language": "Punjabi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/40/Qissa_Vertical_Poster.jpg",
+        "rating": 3.3
+    },
+    {
+        "id": 49,
+        "title": "Harjeeta",
+        "director": "Vijay Kumar Arora",
+        "year": 2018,
+        "genre": "Biography-Drama",
+        "language": "Punjabi",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjg4MmU3YTYtODYwYi00OTgzLTk3YTEtMGI3NWUzNjM5NzA1XkEyXkFqcGc@._V1_.jpg",
+        "rating": 3.9
+    },
+    {
+        "id": 50,
+        "title": "Sufna",
+        "director": "Jagdeep Sidhu",
+        "year": 2020,
+        "genre": "Romance-Drama",
+        "language": "Punjabi",
+        "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sufna-et00125484-03-02-2020-12-02-58.jpg",
+        "rating": 3.5
+    },
+    {
+        "id": 51,
+        "title": "Shadaa",
+        "director": "Jagdeep Sidhu",
+        "year": 2019,
+        "genre": "Comedy-Drama",
+        "language": "Punjabi",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWJlZWM4OGEtY2IxNS00ZGEzLThiYzUtOWNjZDA5ZDkzZTU2XkEyXkFqcGc@._V1_.jpg",
+        "rating": 3.4
+    },
+    {
+        "id": 52,
+        "title": "Dhhai Kilo Prem",
+        "director": "Manoj Sharma",
+        "year": 2017,
+        "genre": "Romance-Drama",
+        "language": "Gujarati",
+        "image": "https://img.airtel.tv/unsafe/fit-in/500x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/HOTSTAR_DTH/SERIES/650b26a5d32b1d6806c715c9/images/13561-v?o=production",
+        "rating": 3.8
+    },
+    {
+        "id": 53,
+        "title": "Wrong Side Raju",
+        "director": "Mikesh Shah",
+        "year": 2016,
+        "genre": "Drama",
+        "language": "Gujarati",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13302325_v_v4_ab.jpg",
+        "rating": 3.9
+    },
+    {
+        "id": 54,
+        "title": "Reva",
+        "director": "Rahul Bhole",
+        "year": 2018,
+        "genre": "Drama",
+        "language": "Gujarati",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEaHz5yxON7vMNIES30TTpAJTw9QhViFDYA&s",
+        "rating": 3.8
+    },
+    {
+        "id": 55,
+        "title": "Chal Jeevi Laiye",
+        "director": "Vipul Mehta",
+        "year": 2019,
+        "genre": "Drama",
+        "language": "Gujarati",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2Y4YTE0NjgtNTQ3Ni00YWZiLWE1MTQtZjRiMjg5Yjk3Yjk1XkEyXkFqcGc@._V1_.jpg",
+        "rating": 3.9
+    },
+    {
+        "id": 56,
+        "title": "Karsandas Pay & Use",
+        "director": "Krishnadev Yagnik",
+        "year": 2017,
+        "genre": "Comedy-Drama",
+        "language": "Gujarati",
+        "image": "https://xstreamcp-assets-msp.streamready.in/assets/ZEEFIVE/MOVIE/66ff62d2177dcc3557892c14/images/PORTRAIT/rszkarsandaspayanduse630x945.jpg",
+        "rating": 3.8
+    },
+    {
+        "id": 57,
+        "title": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "year": 2008,
+        "genre": "Action-Thriller",
+        "language": "English",
+        "image": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/darkknighttrilogy.png",
+        "rating": 4.5
+    },
+    {
+        "id": 58,
+        "title": "Inception",
+        "director": "Christopher Nolan",
+        "year": 2010,
+        "genre": "Sci-Fi-Thriller",
+        "language": "English",
+        "image": "https://play-lh.googleusercontent.com/I--r1fsCwnTeEYx_fUs_zTBc47R_5eM8ek3i3s1nado-q9sLhW09_smy4iLecbHeqzQp",
+        "rating": 4.4
+    },
+    {
+        "id": 59,
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "year": 2014,
+        "genre": "Sci-Fi-Drama",
+        "language": "English",
+        "image": "https://resizing.flixster.com/47rDB5jGZrHWyRMRYMZKenbTcHU=/fit-in/705x460/v2/https://resizing.flixster.com/Y_sqtbGDcspx4oob3nD-lojSLjc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YyMWZjZTQ2LWQwZGItNGRhMi1hZjg3LWFhZDQ1YWU1OTQ2NC53ZWJw",
+        "rating": 4.3
+    },
+    {
+        "id": 60,
+        "title": "The Matrix",
+        "director": "The Wachowskis",
+        "year": 1999,
+        "genre": "Sci-Fi-Action",
+        "language": "English",
+        "image": "https://cdn.mos.cms.futurecdn.net/bWY8qDEGRhaZv2DE7vaokj.jpg",
+        "rating": 4.4
+    },
+    {
+        "id": 61,
+        "title": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "year": 1994,
+        "genre": "Crime-Drama",
+        "language": "English",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_RuI2FvnQ1njAEPPu7ILl8HMmCZW_KNqMQ&s",
+        "rating": 4.5
+    }
+]
